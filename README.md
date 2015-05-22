@@ -1,0 +1,3 @@
+# picareta
+
+primeiroProjeto
